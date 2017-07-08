@@ -1,0 +1,18 @@
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.csprojResolveAssemblyReference.cache
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide_and_Seek.Properties.Resources.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.csproj.GenerateResource.Cache
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.exe.config
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.pdb
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide_and_Seek.Form1.resources
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.exe
+C:\Users\alessandro arosio\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.pdb
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.exe.config
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.exe
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\bin\Debug\Hide and Seek.pdb
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide_and_Seek.Form1.resources
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide_and_Seek.Properties.Resources.resources
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.csproj.GenerateResource.Cache
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.exe
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.pdb
+C:\Users\aless\Alessandro\Dropbox\C#\HF\Hide and Seek\Hide and Seek\obj\Debug\Hide and Seek.csprojResolveAssemblyReference.cache
